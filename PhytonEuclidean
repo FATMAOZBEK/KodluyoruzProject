@@ -9,3 +9,4 @@ for i in range(len(points)):
      distances.append(distance)
      minDistance = min(distances)
      print("Noktalar arasındaki minimum mesafe:", minDistance)
+     
